@@ -2,5 +2,5 @@
 import math
 def factorization(n):
     return math.factorial(n)
-number=int(input("Enter the number"))
+number=int(input("Enter the number :"))
 print(factorization(number))
